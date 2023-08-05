@@ -1,0 +1,2 @@
+# ytcord-tts
+Youtubeチャットとdiscordのチャット内容を読み上げるBot
